@@ -83,3 +83,12 @@ form button {
 form button:hover {
   background: #3339a9;
 }
+
+.wrapper header span{
+  font-weight: 400;
+  font-size: 14px;
+  position: absolute;
+  top: 26%;
+  right: 36%;
+  color: #999;
+}
